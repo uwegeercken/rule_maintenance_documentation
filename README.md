@@ -1,4 +1,4 @@
-Business Rule Maintenance Tool -Documentation
+Business Rule Maintenance Tool - Documentation
 
 Documentation for the Business Rules Maintenance web application
 
@@ -6,7 +6,9 @@ The Business Rules Maintenance web application is a tool to compose business rul
 
 The web application exports a collection of rules into a zip file which then in turn can be directly be run with JaRE - the Java Rule Engine. JaRE is written in Java and can be used in any Java based tool or language, embedded in other applications or also web applications.
 
-There is a plugin available for the Pentaho ETL tool. This allows to seperate business logic from the IT code and thus enahnces quality, cleanness of code and establishes a proper division of responsibilities between bsuiness users and IT.
+There is a plugin available for the Pentaho ETL tool. This allows to seperate business logic from the IT code and thus enhances quality, cleanness of code and establishes a proper division of responsibilities between business users and IT.
+
+There is a processor available for Apache Nifi.  This allows to seperate business logic from the IT code and thus enhances quality, cleanness of code and establishes a proper division of responsibilities between business users and IT.
 
 JaRE is lightweight and runs either standalone or as a server.
 
@@ -35,4 +37,4 @@ The documentation helps the user to get started, do administrative tasks, handle
 uwe geercken
 uwe.geercken@web.de
 
-last update: 2017-03-24
+last update: 2017-08-24
