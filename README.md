@@ -14,6 +14,8 @@ JaRE is lightweight and runs either standalone or as a server.
 
 The documentation helps the user to get started, do administrative tasks, handle updates to underlying software and shows the concepts and workflows of the tool.
 
+The documentation also contains instructions how to install the Business Rules Maintenance Tool.
+
     Copyright (C) 2008-2017  Uwe Geercken
 
  Licensed to the Apache Software Foundation (ASF) under one
@@ -37,4 +39,4 @@ The documentation helps the user to get started, do administrative tasks, handle
 uwe geercken
 uwe.geercken@web.de
 
-last update: 2017-08-24
+last update: 2017-11-12
