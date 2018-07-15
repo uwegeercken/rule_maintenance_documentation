@@ -16,7 +16,7 @@ The documentation helps the user to get started, do administrative tasks, handle
 
 The documentation also contains instructions how to install the Business Rules Maintenance Tool.
 
-    Copyright (C) 2008-2017  Uwe Geercken
+    Copyright (C) 2008-2018  Uwe Geercken
 
  Licensed to the Apache Software Foundation (ASF) under one
  or more contributor license agreements.  See the NOTICE file
@@ -39,4 +39,4 @@ The documentation also contains instructions how to install the Business Rules M
 uwe geercken
 uwe.geercken@web.de
 
-last update: 2017-11-12
+last update: 2018-07-15
